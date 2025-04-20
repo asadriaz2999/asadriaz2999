@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asad Riaz_____________________________________________________________________________________________________________________________________________________________________________
+👋 Hi, I’m Asad Riaz _____________________________________________________________________________________________________________________________________________________________________________
 - 👀 I’m interested in image classification and fault detection 
 - 🌱 I’m currently learning Deep Learning/fault detection
 - 💞️ I’m looking to collaborate on image classification and fault detection
